@@ -1,2 +1,2 @@
 # digitalRecognition
-Some test for how to use GitHub.
+A toy model for digital recongnition using neural networks.
